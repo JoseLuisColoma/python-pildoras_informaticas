@@ -13,4 +13,4 @@ if num1 > num2:
 else:
     mayor = num2
 
-print(f'El mayor número de {num1}, {num2}, {num3} es: {mayor}')
+print(f'El número mayor de {num1}, {num2}, {num3} es:{mayor}')
